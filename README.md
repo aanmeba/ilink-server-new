@@ -6,7 +6,7 @@ iLink optimises your social media presence by linking all the landing pages unde
 
 <hr />
 
-- **Deployed Server**: [https://ilink-server.herokuapp.com/links](https://ilink-server.herokuapp.com/links)
+- **Deployed Server**: [https://ilink-server-new.herokuapp.com/links](https://ilink-server-new.herokuapp.com/links)
 - **Deployed App**: [https://ilinkapp.netlify.app/](https://ilinkapp.netlify.app/)
 
   - Test User
